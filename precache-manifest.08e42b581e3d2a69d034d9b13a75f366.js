@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/SlimsteMensApp/static/css/main.ba24285e.chunk.css"
   },
   {
-    "revision": "2d36752fb27867a54dab3989307b2051",
+    "revision": "9f79b80b13ab0f0151e5379eb7836c18",
     "url": "/SlimsteMensApp/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SlimsteMensApp/precache-manifest.26ef007c0358d51601141431566847e5.js"
+  "/SlimsteMensApp/precache-manifest.08e42b581e3d2a69d034d9b13a75f366.js"
 );
 
 workbox.clientsClaim();
